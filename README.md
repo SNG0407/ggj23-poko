@@ -17,5 +17,4 @@ https://infamyking.itch.io/rootslands
 
 
 [Photos]
-![KakaoTalk_20230306_151153558_02](https://user-images.githubusercontent.com/63523334/223039396-82d81b78-41f2-43c4-a846-f961c63f7d14.jpg)
-![KakaoTalk_20230306_151153558](https://user-images.githubusercontent.com/63523334/223039404-91d2ff92-2c5e-4a4d-8e38-b72ea99a1129.jpg)
+![image](https://user-images.githubusercontent.com/63523334/223039650-8c1d8dc9-9ba3-43d9-99be-a983d5c71a9e.png)
